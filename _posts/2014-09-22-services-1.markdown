@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dog.png
+img: graph.jpg
 category: Services
 title: Business Advisory<br>& Management Consulting
 description: |
