@@ -6,4 +6,4 @@ title: Business Advisory<br>& Management Consulting
 description: |
 published: true
 ---
-  Our business advisory practice specializes in answering the complex problems your organization struggles to solve.  Our philosophy: put smart people in a room that care about your people and your business and create a customized solution fit for your needs.
+  Our business advisory practice specializes in answering the complex problems your organization struggles to solve.  Our philosophy: put smart people in a room that care about your people and your business and create a customized solution that fits for your needs.
