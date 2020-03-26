@@ -2,8 +2,8 @@
 layout: default
 img: ipad.png
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Business Advisory:
 description: |
-published: false
+published: true
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Our business advisory practice specializes in answering the complex problems your organization struggles to solve.  Our philosophy: put smart people in a room that care about your people and your business and create a customized solution fit for your needs.
