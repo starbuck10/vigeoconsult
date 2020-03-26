@@ -1,6 +1,6 @@
 source 'http://rubygems.org'
 
-gem 'github-poages'
+gem 'github-pages'
 gem 'html-proofer'
 gem 'jekyll-admin'
 
