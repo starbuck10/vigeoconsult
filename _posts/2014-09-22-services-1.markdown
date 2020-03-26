@@ -1,8 +1,8 @@
 ---
 layout: default
-img: img/services/ipad.png
+img: dog.png
 category: Services
-title: Business Advisory:
+title: Business Advisory<br>& Management Consulting
 description: |
 published: true
 ---

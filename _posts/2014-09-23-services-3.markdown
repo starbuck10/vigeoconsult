@@ -2,8 +2,8 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Growth<br>& Strategy
 description: |
-published: false
+published: true
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Our strategy practice provides you the think-tank brainpower you need to navigate your business's most difficult problems. We work with our clients to create inclusive, well-rounded problem-solving groups that specialize in out-of-the-box solutions.
